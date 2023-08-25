@@ -42,7 +42,7 @@ const NavBar = () => {
                     </div>
                     <a className="btn btn-ghost text-purple-500 normal-case text-xl">Bistro Boss</a>
                 </div>
-                <div className="navbar-center md:hidden lg:flex">
+                <div className="navbar-center sm:hidden  lg:flex">
                     <ul className="menu menu-horizontal px-1">
                         {navOptions}
                     </ul>
